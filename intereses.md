@@ -1,5 +1,3 @@
-# Intereses de investigación
-
 Estoy interesada en la intersección entre ingeniería, salud e innovación médica.
 
 Hasta ahora he realizado experiencias en bioinformática, tanto en un hospital como en proyectos académicos, lo que despertó mi interés por las aplicaciones computacionales en medicina. Para mis próximas experiencias, me gustaría explorar más la industria farmacéutica, especialmente los procesos que conectan investigación, desarrollo y producción.
