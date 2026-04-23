@@ -6,9 +6,11 @@ Hasta ahora he realizado experiencias en bioinformática, tanto en un hospital c
 
 Algunas áreas que me interesan particularmente son:
 
-Aplicaciones de la inteligencia artificial para el descubrimiento de nuevas moléculas y el desarrollo farmacéutico.
-Innovación en dispositivos médicos, como prótesis y tecnologías para mejorar la atención sanitaria.
-Desarrollo de herramientas o soluciones paramédicas que faciliten el trabajo cotidiano de los profesionales de la salud.
-Procesos de transferencia desde la investigación hacia aplicaciones industriales concretas.
+- Aplicaciones de la inteligencia artificial para el descubrimiento de nuevas moléculas y el desarrollo farmacéutico.
+- Innovación en dispositivos médicos, como prótesis y tecnologías para mejorar la atención sanitaria.
+- Desarrollo de herramientas o soluciones paramédicas que faciliten el trabajo cotidiano de los profesionales de la salud.
+- Procesos de transferencia desde la investigación hacia aplicaciones industriales concretas.
 
 Me gustaría contribuir a tecnologías que combinen ciencia, ingeniería e impacto en el ámbito médico.
+
+[Volver al inicio](index.md)
