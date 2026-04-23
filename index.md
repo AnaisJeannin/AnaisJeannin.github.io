@@ -1,4 +1,4 @@
-## Bienvenid@s a mi página personal!
+# Bienvenid@s a mi página personal!
 
 <img alt="avatar" src="avatar.png" width="300">
 
